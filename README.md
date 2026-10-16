@@ -5,21 +5,22 @@
 一个开放共创的玄幻世界观创作站。任何对该项目内容感兴趣、并希望提供想法的人，都可以 Fork 本项目进行创作。
 
 ### 项目结构
-worldbuilding/
-  ├── three-realms.md     # 三界设定
-  ├── interaction-laws.md # 三界交互法则
-  ├── timeline.md         # 纪年表
-  └── glossary.md         # 术语表
-characters/
-  ├── halari.md           # 哈拉利
-  ├── citalia.md          # 茜塔莉娅
-  ├── baiyueli.md         # 白月离
-  └── design-patterns.md  # 新神明设计范式
-stories/
-  ├── canon               # 官方正典故事
-        ├── core/              # 核心正典
-        └── extension/         # 扩展正典
-  └── fan/                # 同人实验
+```text
+.
+├── worldbuilding/        
+│   ├── three-realms.md       # 三界设定
+│   ├── interaction-laws.md   # 三界交互法则
+│   ├── timeline.md           # 纪年表
+│   └── glossary.md           # 术语表
+├── characters/           
+│   └── design-patterns.md    # 新角色设计范式
+├── stories/              
+│   ├── canon/                # 官方正典
+│   │   ├── core/             # 核心正典
+│   │   └── extension/        # 扩展正典
+│   └── fan/                  # 同人实验
+└── writing-principles/
+```
 
 ### 创作分类
 
