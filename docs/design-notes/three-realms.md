@@ -1,6 +1,6 @@
 # 三界设定的设计笔记
 
-> 本文件是作者向的设计说明，不是正典正文。正典正文见 `content/worldbuilding/three-realms.md`。
+> 本文件是作者向的设计说明，不是设定正文。设定正文见 `content/worldbuilding/three-realms.md`。
 
 ## 建议写法
 

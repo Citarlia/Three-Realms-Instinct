@@ -1,6 +1,6 @@
 # 三界交互法则的设计笔记
 
-> 本文件是作者向的设计说明，不是正典正文。正典正文见 `content/worldbuilding/interaction-laws.md`。
+> 本文件是作者向的设计说明，不是设定正文。设定正文见 `content/worldbuilding/interaction-laws.md`。
 
 ## 核心原则
 

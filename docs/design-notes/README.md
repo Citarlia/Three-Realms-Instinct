@@ -1,8 +1,8 @@
 # 设计笔记
 
-本目录存放作者向的设计说明、写作建议和常见坑，不属于正典正文。
+本目录存放作者向的设计说明、写作建议和常见坑，不属于设定正文。
 
-- 正典正文：`content/worldbuilding/`
+- 设定正文：`content/worldbuilding/`
 - 角色卡：`content/characters/`
 - 写作原则：`writing-principles/`
 
