@@ -14,7 +14,7 @@
 │   ├── worldbuilding/
 │   │   ├── three-realms.md       # 三界设定
 │   │   ├── interaction-laws.md   # 三界交互法则
-│   │   ├── Kassidemo.md          # 卡斯德莫（待补）
+│   │   ├── Kassidemo.md          # 卡斯德莫
 │   │   ├── timeline.md           # 纪年表
 │   │   └── glossary.md           # 术语表
 │   ├── characters/
@@ -22,12 +22,16 @@
 │   │   ├── Citarlia.md           # 茜塔莉娅
 │   │   ├── Vesta.md              # 维斯塔
 │   │   ├── BaiYueli.md           # 白月离
+│   │   ├── Kyokuyamakini.md      # 曲山崎艺
+│   │   ├── agent.md              # 代行者（占位）
 │   │   └── design-patterns.md    # 新角色 / 新神明设计范式
 │   └── stories/
 │       ├── canon/
 │       │   ├── outline.md        # 正典三幕大纲
 │       │   ├── core/             # 核心正典
-│       │   │   └── chapter-01.md
+│       │   │   ├── chapter-01.md
+│       │   │   ├── chapter-02.md
+│       │   │   └── chapter-03.md
 │       │   └── extension/        # 扩展正典
 │       └── fan/                  # 同人实验
 ├── docs/
