@@ -31,7 +31,8 @@
 │       │   ├── core/             # 核心正典
 │       │   │   ├── chapter-01.md
 │       │   │   ├── chapter-02.md
-│       │   │   └── chapter-03.md
+│       │   │   ├── chapter-03.md
+│       │   │   └── chapter-04.md
 │       │   └── extension/        # 扩展正典
 │       └── fan/                  # 同人实验
 ├── docs/
