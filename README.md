@@ -33,7 +33,9 @@
 │       │   │   ├── chapter-02.md
 │       │   │   ├── chapter-03.md
 │       │   │   ├── chapter-04.md
-│       │   │   └── chapter-05.md
+│       │   │   ├── chapter-05.md
+│       │   │   ├── chapter-06.md
+│       │   │   └── chapter-07.md
 │       │   └── extension/        # 扩展正典
 │       └── fan/                  # 同人实验
 ├── docs/
